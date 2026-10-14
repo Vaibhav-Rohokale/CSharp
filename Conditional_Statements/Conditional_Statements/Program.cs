@@ -10,7 +10,7 @@ namespace Conditional_Statements
     {
         static void Main(string[] args)
         {
-            // Decisison makung :
+            // Decisison making :
             // types of conditional statements:
             //1. if statements
             //2. if else
